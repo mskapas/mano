@@ -1,846 +1,693 @@
-﻿#EXTM3U
-# tag example tvg-name=""
-
-# HD
-#EXTINF:-1,LRT Televizija
-udp://@233.136.41.158:1234
-
-#EXTINF:-1,LRT Televizija
-udp://@233.136.41.170:1234
-
-#EXTINF:-1,LRT Lituanica
-udp://@233.136.41.147:1234
-
-#HD
-#EXTINF:-1,LRT Kultūra
-udp://@225.2.226.67:1234
-
-#EXTINF:-1,LRT Kultūra
-udp://@233.136.41.171:1234
-
-# HD
-#EXTINF:-1,TV3
-udp://@239.255.12.13:1234
-
-#EXTINF:-1,TV3
-udp://@239.255.13.4:1234
-
-#EXTINF:-1,LNK
-udp://@239.255.13.28:1234
-
-#EXTINF:-1,BTV
-udp://@233.136.41.20:1234
-
-#HD
-#EXTINF:-1,Lietuvos ryto televizija
-udp://@239.255.12.8:1234
-
-#EXTINF:-1,Lietuvos ryto televizija
-udp://@239.255.13.7:1234
-
-#EXTINF:-1,TV1
-udp://@239.255.13.9:1234
-
-#EXTINF:-1,Balticum Auksinis
+#EXTM3U
+#EXTINF:0,Animal Planet
+udp://@233.136.41.8:1234
+#EXTINF:0,Animal Planet HD
+udp://@233.136.41.156:1234
+#EXTINF:0,Balticum Auksinis
 udp://@233.136.41.105:1234
-
-#EXTINF:-1,Balticum TV
-udp://@233.136.41.21:1234
-
-#EXTINF:-1,Balticum Platinum
+#EXTINF:0,Balticum Platinum
 udp://@239.255.12.4:1234
-
-#EXTINF:-1,TV1000 Premium
-udp://@233.136.41.119:1234
-
-#EXTINF:-1,Info TV
-udp://@233.136.41.177:1234
-
-# HD
-#EXTINF:-1,TV6
-udp://@239.255.12.16:1234
-
-#EXTINF:-1,TV6
-udp://@233.136.41.175:1234
-
-#EXTINF:-1,TV8
-udp://@239.255.13.15:1234
-
-#EXTINF:-1,Kidzone Baltic
-udp://@233.136.41.145:1234
-
-#EXTINF:-1,PinGviniUkas TV
-udp://@233.136.41.115:1234
-
-#EXTINF:-1,Penki TV
-udp://@239.255.13.1:1234
-
-#EXTINF:-1,Liuks!
-udp://@233.136.41.178:1234
-
-
-# SPORTS ########################################
-
-#EXTINF:-1,Viasat Sport Baltic HD
-udp://@239.255.12.10:1234
-
-#EXTINF:-1,Viasat Sport Baltic
-udp://@233.136.41.36:1234
-
-#EXTINF:-1,Viasat Motor
-udp://@233.136.41.125:1234
-
-#EXTINF:-1,Viasat Golf
-udp://@225.2.225.83:1234
-
-#EXTINF:-1,Extreme Sports
-udp://@233.136.41.18:1234
-
-#HD
-#EXTINF:-1,Sport1
-udp://@233.136.41.163:1234
-
-#EXTINF:-1,Sport1
-udp://@233.136.41.45:1234
-
-# RU ENG, HD
-#EXTINF:-1,Eurosport 1
-udp://@225.2.225.132:1234
-
-# RU ENG
-#EXTINF:-1,Eurosport 1
-udp://@225.2.225.214:1234
-
-# HD
-#EXTINF:-1,Eurosport 2
-udp://@233.136.41.143:1234
-
-#EXTINF:-1,Eurosport 2
-udp://@233.136.41.19:1234
-
-
-######################################### SPORTS
-
-# MUSIC ########################################
-
-#EXTINF:-1,MTV Europe
-udp://@233.136.41.30:1234
-
-#EXTINF:-1,MTV Hits
-udp://@225.2.225.182:1234
-
-#EXTINF:-1,MTV Music 24
-udp://@233.136.41.114:1234
-
-#EXTINF:-1,MTV Rocks
-udp://@225.2.225.183:1234
-
-#EXTINF:-1,MTV Dance
-udp://@225.2.225.181:1234
-
-# NO EPG
-#EXTINF:-1,1HD Music Television
-udp://@225.2.226.25:1234
-
-#EXTINF:-1,Deluxe Music
-udp://@233.136.41.87:1234
-
-#EXTINF:-1,C Music TV
-udp://@233.136.41.150:1234
-
-# HD
-#EXTINF:-1,Bridge TV
-udp://@225.2.225.41:1234
-
-#EXTINF:-1,Bridge TV
-udp://@225.2.225.113:1234
-
-# NO EPG
-#EXTINF:-1,Bridge TV Dance
-udp://@225.2.225.104:1234
-
-#EXTINF:-1,VH1 Euro IMM
-udp://@225.2.225.188:1234
-
-#EXTINF:-1,VH1 Classic Europe
-udp://@225.2.225.187:1234
-
-#EXTINF:-1,Mezzo
-udp://@233.136.41.64:1234
-
-
-######################################### MUSIC
-
-# FILMS ########################################
-
-#EXTINF:-1,TV1000
-udp://@233.136.41.41:1234
-
-#EXTINF:-1,TV1000 Action
-udp://@233.136.41.120:1234
-
-#EXTINF:-1,TVE Internacional
-udp://@233.136.41.84:1234
-
-# RU ENG
-#EXTINF:-1,Fox Life HD
-udp://@225.2.226.11:1234
-
-# RU ENG
-#EXTINF:-1,FOX
-udp://@225.2.225.79:1234
-
-#EXTINF:-1,AMC
-udp://@233.136.41.203:1234
-
-#EXTINF:-1,TV XXI
-udp://@233.136.41.164:1234
-
-# RU ENG
-#EXTINF:-1,Paramount Channel
-udp://@225.2.225.85:1234
-
-#EXTINF:-1,PRO 7
-udp://@233.136.41.69:1234
-
-# RU ENG Movies
-#EXTINF:-1,Sony Channel
-udp://@225.2.225.219:1234
-
-#EXTINF:-1,Sony Channel
-udp://@233.136.41.75:1234
-
-# RU ENG Movies FIXME: Wrong name probably
-#EXTINF:-1,Sony Channel
-udp://@225.2.225.220:1234
-
-# RU ENG Movies
-#EXTINF:-1,Sony Turbo
-udp://@225.2.225.221:1234
-
-######################################### FILMS
-
-# NEWS ########################################
-
-#EXTINF:-1,Bloomberg
-udp://@233.136.41.49:1234
-
-#EXTINF:-1,CNN International
-udp://@233.136.41.52:1234
-
-#EXTINF:-1,Russia Today
-udp://@225.2.225.101:1234
-
-#EXTINF:-1,NHK World
-udp://@225.2.225.206:1234
-
-#EXTINF:-1,France 24 UK
-udp://@225.2.225.216:1234
-
-#EXTINF:-1,Sky News
-udp://@233.136.41.112:1234
-
-#EXTINF:-1,CGTN
-udp://@225.2.225.88:1234
-
-#EXTINF:-1,Euronews
-udp://@233.136.41.56:1234
-
-#EXTINF:-1,Deutsche Welle
-udp://@233.136.41.53:1234
-
-######################################### NEWS
-
-# DOCUMENTARIES ########################################
-
-#EXTINF:-1,Discovery Channel CE
-udp://@233.136.41.4:1234
-
-# RU ENG
-#EXTINF:-1,Discovery
-udp://@225.2.225.174:1234
-
-# HD
-#EXTINF:-1,Discovery Science
-udp://@233.136.41.157:1234
-
-#EXTINF:-1,Discovery Science
-udp://@233.136.41.3:1234
-
-#EXTINF:-1,Discovery HD Showcase
-udp://@233.136.41.54:1234
-
-# RU ENG
-#EXTINF:-1,National Geographic HD
-udp://@225.2.225.133:1234
-
-#EXTINF:-1,National Geographic
-udp://@233.136.41.29:1234
-
-# RU ENG
-#EXTINF:-1,National Geographic Wild
-udp://@225.2.225.80:1234
-
-#EXTINF:-1,Animal Planet HD
-udp://@233.136.41.156:1234
-
-#EXTINF:-1,Animal Planet
-udp://@233.136.41.8:1234
-
-# RU ENG
-#EXTINF:-1,Animal Planet
-udp://@225.2.225.172:1234
-
-# ENG RU
-#EXTINF:-1,Animal Planet
-udp://@225.2.225.71:1234
-
-#EXTINF:-1,Animal Planet
-udp://@239.255.13.16:1234
-
-#EXTINF:-1,Viasat Nature
-udp://@233.136.41.133:1234
-
-#EXTINF:-1,Viasat History
-udp://@233.136.41.34:1234
-
-# RU ENG
-#EXTINF:-1,History Europe
-udp://@225.2.225.94:1234
-
-#EXTINF:-1,History
-udp://@233.136.41.109:1234
-
-#EXTINF:-1,Viasat Explore Nordic
-udp://@233.136.41.37:1234
-
-# ENG RU
-#EXTINF:-1,Viasat Explorer
-udp://@225.2.225.69:1234
-
-# RU ENG, HD
-#EXTINF:-1,Travel Channel
-udp://@225.2.225.137:1234
-
-# RU ENG
-#EXTINF:-1,Travel Channel
-udp://@225.2.225.99:1234
-
-# RU ENG
-#EXTINF:-1,ID Xtra HD
-udp://@233.136.41.155:1234
-
-# JUST ENG
-#EXTINF:-1,TLC Pan
-udp://@233.136.41.167:1234
-
-# RU ENG
-#EXTINF:-1,TLC Pan
-udp://@225.2.225.186:1234
-
-#EXTINF:-1,Da Vinci Learning
-udp://@233.136.41.5:1234
-
-#EXTINF:-1,Fashion Television
-udp://@233.136.41.160:1234
-
-#EXTINF:-1,Fashion One HD
-udp://@225.2.226.21:1234
-
-#EXTINF:-1,Fashion TV
-udp://@233.136.41.57:1234
-
-#EXTINF:-1,Fine Living Network
-udp://@233.136.41.135:1234
-
-#EXTINF:-1,English Club TV
-udp://@233.136.41.137:1234
-
-# RU ENG
-#EXTINF:-1,Outdoor Channel
-udp://@225.2.225.97:1234
-
-# HD
-#EXTINF:-1,DTX
-udp://@233.136.41.184:1234
-
-# RU ENG
-#EXTINF:-1,DTX
-udp://@225.2.225.176:1234
-
-# RU ENG
-#EXTINF:-1,RTG TV
-udp://@225.2.225.102:1234
-
-# RU ENG
-#EXTINF:-1,CBS Reality
-udp://@225.2.225.115:1234
-
-
-######################################### DOCUMENTARIES
-
-# KIDS ########################################
-
-#EXTINF:-1,Disney XD
-udp://@233.136.41.91:1234
-
-#EXTINF:-1,Disney Channel
-udp://@233.136.41.90:1234
-
-#EXTINF:-1,Disney Junior
-udp://@233.136.41.92:1234
-
-#EXTINF:-1,Boomerang
-udp://@233.136.41.7:1234
-
-# RU ENG
-#EXTINF:-1,Cartoon Network
-udp://@225.2.225.173:1234
-
-#EXTINF:-1,Duck TV
-udp://@233.136.41.48:1234
-
-# RU ENG
-#EXTINF:-1,Nick Jr.
-udp://@225.2.225.185:1234
-
-# RU
-#EXTINF:-1,Nickelodeon
-udp://@225.2.225.218:1234
-#udp://@225.2.226.14:1234
-
-#ENG LT PO
-#EXTINF:-1,Jim Jam
-udp://@233.136.41.16:1234
-
-######################################### KIDS
-
-# BOOBS ########################################
-
-#EXTINF:-1,Playboy TV
-udp://@225.2.225.117:1234
-
-# aka Nuart
-#EXTINF:-1,Nu.ART TV
-udp://@225.2.225.156:1234
-
-#EXTINF:-1,Русская ноч
-udp://@225.2.225.158:1234
-
-#EXTINF:-1,Hustler TV
-udp://@225.2.225.160:1234
-
-######################################### BOOBS
-
-#EXTINF:-1,REN TV Lietuva
-udp://@239.255.13.11:1234
-
-# Russian HIGHLY VATNIK ZONE
-# RU ENG
-#EXTINF:-1,XXI
-udp://@225.2.225.121:1234
-
-#EXTINF:-1,Rosija1 HD
-udp://@225.2.226.10:1234
-#EXTINF:-1,Animal Family HD RU
-udp://@225.2.226.49:1234
-
-#EXTINF:-1,History HD
-udp://@225.2.226.28:1234
-#EXTINF:-1,Teletravel HD
-udp://@225.2.226.52:1234
-#EXTINF:-1,Nickelodeon HD
-udp://@225.2.226.32:1234
-#EXTINF:-1,Nick Jr.
-udp://@225.2.226.29:1234
-#EXTINF:-1,Nat Geo Wild HD
-udp://@225.2.226.18:1234
-#EXTINF:-1,National Geographic HD
-udp://@225.2.226.19:1234
-#EXTINF:-1,Bollywood HD
-udp://@225.2.226.33:1234
-#EXTINF:-1,Eureka HD
-udp://@225.2.226.53:1234
-#EXTINF:-1,НТВ HD
-udp://@225.2.226.24:1234
-#EXTINF:-1,365 дней
-udp://@225.2.226.15:1234
-#EXTINF:-1,Россия К
-udp://@225.2.226.9:1234
-#EXTINF:-1,Морской HD
-udp://@225.2.226.23:1234
-#EXTINF:-1,Мультимания
-udp://@225.2.226.30:1234
-#EXTINF:-1,Первый канал HD
-udp://@225.2.226.34:1234
-#EXTINF:-1,Дом Кино Премиум HD
-udp://@225.2.226.31:1234
-#EXTINF:-1,Планета HD
-udp://@225.2.226.27:1234
-#EXTINF:-1,МАТЧ! ИГРА HD
-udp://@225.2.226.35:1234
-#EXTINF:-1,КиноПремиум HD
-udp://@225.2.226.37:1234
-#EXTINF:-1,МАТЧ! АРЕНА HD
-udp://@225.2.226.36:1234
-#EXTINF:-1,Остросюжетное HD
-udp://@225.2.226.38:1234
-#EXTINF:-1,Наш Детектив HD
-udp://@225.2.226.39:1234
-#EXTINF:-1,Наш Кинороман HD
-udp://@225.2.226.42:1234
-#EXTINF:-1,Еда
-udp://@225.2.226.40:1234
-#EXTINF:-1,Кинопоказ HD1
-udp://@225.2.226.44:1234
-#EXTINF:-1,Еда HD
-udp://@225.2.226.46:1234
-#EXTINF:-1,Кинопоказ HD2
-udp://@225.2.226.45:1234
-#EXTINF:-1,МАТЧ! HD
-udp://@225.2.226.41:1234
-#EXTINF:-1,КИНОКОМЕДИЯ
-udp://@225.2.226.56:1234
-#EXTINF:-1,Наш Футбол HD
-udp://@225.2.226.54:1234
-#EXTINF:-1,МАТЧ! ПЛАНЕТА
-udp://@225.2.225.150:1234
-#EXTINF:-1,МАТЧ! НАШ СПОРТ
-udp://@225.2.225.46:1234
-#RU
-#EXTINF:-1,FOX HD
-udp://@225.2.226.20:1234
-
-# RU ENG
-#EXTINF:-1,National Geographic
-udp://@225.2.225.184:1234
-# RU ENG
-#EXTINF:-1,Discovery Science
-udp://@225.2.225.205:1234
-# RU ENG
-#EXTINF:-1,Discovery Science
-udp://@225.2.225.205:1234
-#EXTINF:-1,Discovery TLC
-udp://@233.136.41.2:1234
-#EXTINF:-1,Discovery Science
-udp://@233.136.41.3:1234
-#EXTINF:-1,Discovery Channel Europe
-udp://@233.136.41.4:1234
-#EXTINF:-1,Da Vinci Learning
-udp://@233.136.41.5:1234
-#EXTINF:-1,Cartoon Network
-udp://@233.136.41.6:1234
-#EXTINF:-1,Boomerang
-udp://@233.136.41.7:1234
-#EXTINF:-1,Animal Planet Europe
-udp://@233.136.41.8:1234
-#EXTINF:-1,PBMK
-udp://@233.136.41.10:1234
-#EXTINF:-1,Eurosport
-udp://@233.136.41.11:1234
-#EXTINF:-1,LRT Televizija
-udp://@233.136.41.12:1234
-#EXTINF:-1,LNK
-udp://@233.136.41.13:1234
-#EXTINF:-1,Liuks!
-udp://@233.136.41.14:1234
-#EXTINF:-1,Lietuvos Rytas TV
-udp://@233.136.41.15:1234
-#EXTINF:-1,JimJam
-udp://@233.136.41.16:1234
-#EXTINF:-1,Info TV
-udp://@233.136.41.17:1234
-#EXTINF:-1,Extreme Sports
-udp://@233.136.41.18:1234
-#EXTINF:-1,Eurosport 2
-udp://@233.136.41.19:1234
-#EXTINF:-1,BTV
-udp://@233.136.41.20:1234
-#EXTINF:-1,Balticum TV
+#EXTINF:0,Balticum TV
 udp://@233.136.41.21:1234
-#EXTINF:-1,RTVi
-udp://@233.136.41.22:1234
-#EXTINF:-1,Planeta RTR
-udp://@233.136.41.23:1234
-#EXTINF:-1,REN TV Lietuva
-udp://@233.136.41.24:1234
-#EXTINF:-1,PBK
-udp://@233.136.41.25:1234
-#EXTINF:-1,Oxota i Rybalka
-udp://@233.136.41.26:1234
-#EXTINF:-1,NTV Mir Lithuania
-udp://@233.136.41.27:1234
-#EXTINF:-1,National Geographic
-udp://@233.136.41.29:1234
-#EXTINF:-1,MTV Europe
-udp://@233.136.41.30:1234
-#EXTINF:-1,LRT Kultura
-udp://@233.136.41.31:1234
-#EXTINF:-1,VH1 Europe
-udp://@233.136.41.32:1234
-#EXTINF:-1,Viasat History
-udp://@233.136.41.34:1234
-#EXTINF:-1,Viasat Sport Baltic
-udp://@233.136.41.36:1234
-#EXTINF:-1,Viasat Explore
-udp://@233.136.41.37:1234
-#EXTINF:-1,TV6
-udp://@233.136.41.38:1234
-#EXTINF:-1,TV3
-udp://@233.136.41.39:1234
-#EXTINF:-1,TV1000 Russkoje Kino
-udp://@233.136.41.40:1234
-#EXTINF:-1,TV1000
-udp://@233.136.41.41:1234
-#EXTINF:-1,TV1
-udp://@233.136.41.42:1234
-#EXTINF:-1,TV XXI
-udp://@233.136.41.43:1234
-#EXTINF:-1,Travel Channel SD
-udp://@233.136.41.44:1234
-#EXTINF:-1,Sport 1
-udp://@233.136.41.45:1234
-#EXTINF:-1,RTVi Nashe Liubimoe Kino
-udp://@233.136.41.46:1234
-#EXTINF:-1,Belarus 24
-udp://@233.136.41.47:1234
-#EXTINF:-1,Duck TV
-udp://@233.136.41.48:1234
-#EXTINF:-1,Bloomberg
-udp://@233.136.41.49:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-#EXTINF:-1,Blue Hustler
+#EXTINF:0,Bloomberg
+udp://@233.136.41.49:1234
+#EXTINF:0,Blue Hustler
 udp://@233.136.41.50:1234           
-#EXTINF:-1,CNN International
-udp://@233.136.41.52:1234
-#EXTINF:-1,Deutsche Welle
-udp://@233.136.41.53:1234
-#EXTINF:-1,Discovery HD Showcase
-udp://@233.136.41.54:1234
-#EXTINF:-1,Euronews
-udp://@233.136.41.56:1234
-#EXTINF:-1,France 24
-udp://@233.136.41.58:1234
-#EXTINF:-1,I-Concerts HD
-udp://@233.136.41.59:1234
-#EXTINF:-1,Lia Minor TV
-udp://@233.136.41.61:1234
-#EXTINF:-1,MCM Top
-udp://@233.136.41.63:1234
-#EXTINF:-1,Mezzo
-udp://@233.136.41.64:1234
-#EXTINF:-1,AMC
-udp://@233.136.41.65:1234
-#EXTINF:-1,Moya Planeta
-udp://@233.136.41.66:1234
-#EXTINF:-1,PRO7
-udp://@233.136.41.69:1234
-#EXTINF:-1,Rai Uno
-udp://@233.136.41.70:1234
-#EXTINF:-1,RTL
-udp://@233.136.41.71:1234
-#EXTINF:-1,Russkij Illiuzion
-udp://@233.136.41.72:1234
-#EXTINF:-1,SAT 1
-udp://@233.136.41.73:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-#EXTINF:-1,Sony Channel
-udp://@233.136.41.75:1234        
-#EXTINF:-1,etaplius
-udp://@233.136.41.76:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-#EXTINF:-1,TDK
-udp://@233.136.41.78:1234                
-#EXTINF:-1,S TV
-udp://@233.136.41.80:1234
-#EXTINF:-1,TVP Polonia
-udp://@233.136.41.81:1234
-#EXTINF:-1,TV5 Monde Europe
-udp://@233.136.41.82:1234
-#EXTINF:-1,TVCi
-udp://@233.136.41.83:1234
-#EXTINF:-1,TVEi
-udp://@233.136.41.84:1234
-#EXTINF:-1,Viasat Golf
-udp://@233.136.41.85:1234
-#EXTINF:-1,Deluxe Music
-udp://@233.136.41.87:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-#EXTINF:-1,CBS Reality
+#EXTINF:0,BTV
+udp://@233.136.41.20:1234
+#EXTINF:0,Cartoon Network
+udp://@233.136.41.6:1234
+#EXTINF:0,CBS Reality
 udp://@233.136.41.88:1234
-#EXTINF:-1,CBS Drama
-udp://@233.136.41.89:1234
-#EXTINF:-1,Disney Channel
-udp://@233.136.41.90:1234
-#EXTINF:-1,Disney XD
-udp://@233.136.41.91:1234
-#EXTINF:-1,Disney Junior
-udp://@233.136.41.92:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-#EXTINF:-1,Auto Plius
-udp://@233.136.41.93:1234
-#EXTINF:-1,Siauliu TV
-udp://@233.136.41.95:1234
-#EXTINF:-1,Deluxe Lounge HD
+#EXTINF:0,CNN International
+udp://@233.136.41.52:1234
+#EXTINF:0,Da Vinci Learning
+udp://@233.136.41.5:1234
+#EXTINF:0,Deluxe Lounge HD
 udp://@233.136.41.96:1234
-#EXTINF:-1,Russian Today
-udp://@233.136.41.98:1234
-#EXTINF:-1,RBK
-udp://@233.136.41.99:1234
-#EXTINF:-1,Nat Geo Wild
-udp://@233.136.41.101:1234
-#EXTINF:-1,Eurosport HD
-udp://@233.136.41.104:1234
-#EXTINF:-1,Balticum Auksinis
-udp://@233.136.41.105:1234
-#EXTINF:-1,Duck HD TV
-udp://@233.136.41.108:1234
-#EXTINF:-1,History
-udp://@233.136.41.109:1234
-#EXTINF:-1,Fox Life
-udp://@233.136.41.110:1234
-#EXTINF:-1,Fox
-udp://@233.136.41.111:1234
-#EXTINF:-1,Sky News International
-udp://@233.136.41.112:1234
-#EXTINF:-1,MTV Music 24
-udp://@233.136.41.114:1234
-#EXTINF:-1,Pingvinukas TV
-udp://@233.136.41.115:1234
-#EXTINF:-1,TV8
-udp://@233.136.41.116:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-#EXTINF:-1,LR Seimas Tiesiogiai
-udp://@233.136.41.118:1234
-#EXTINF:-1,TV1000 Premium
-udp://@233.136.41.119:1234
-#EXTINF:-1,TV1000 Action
-udp://@233.136.41.120:1234
-#EXTINF:-1,CTC Baltic
-udp://@233.136.41.121:1234
-#EXTINF:-1,Travel Channel HD
-udp://@233.136.41.124:1234
-#EXTINF:-1,Viasat Motor SD
-udp://@233.136.41.125:1234
-#EXTINF:-1,Viasat Motor HD
-udp://@233.136.41.126:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-#EXTINF:-1,KHL
-udp://@233.136.41.127:1234             
-#EXTINF:-1,Rossia 24
-udp://@233.136.41.128:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-#EXTINF:-1,Fashion One
-udp://@233.136.41.131:1234
-#EXTINF:-1,Nauka 2.0
-udp://@233.136.41.132:1234
-#EXTINF:-1,Viasat Nature
-udp://@233.136.41.133:1234
-#EXTINF:-1,Dozd TV
-udp://@233.136.41.134:1234
-#EXTINF:-1,Fine Living
-udp://@233.136.41.135:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-#EXTINF:-1,English Club
-udp://@233.136.41.137:1234
-#EXTINF:-1,Illiuzion+
-udp://@233.136.41.138:1234
-#EXTINF:-1,Zhivi!
-udp://@233.136.41.139:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-#EXTINF:-1,Viasat History HD
-udp://@233.136.41.140:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-#EXTINF:-1,Viasat Explore HD
-udp://@233.136.41.141:1234             
-#EXTINF:-1,MTV Hits
-udp://@233.136.41.142:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-#EXTINF:-1,Eurosport 2 HD
-udp://@233.136.41.143:1234
-#EXTINF:-1,KidZone
-udp://@239.255.12.3:1234 
-#EXTINF:-1,THT International
-udp://@233.136.41.146:1234
-#EXTINF:-1,LRT Lituanica
-udp://@233.136.41.147:1234
-#EXTINF:-1,GNTV
-udp://@233.136.41.148:1234
-#EXTINF:-1,C Music TV
-udp://@233.136.41.150:1234
-#EXTINF:-1,Kino Komedia
-udp://@233.136.41.151:1234
-#EXTINF:-1,Dom Kino
-udp://@233.136.41.152:1234 
-#EXTINF:-1,ID Extra Europe HD
-udp://@233.136.41.155:1234
-#EXTINF:-1,Animal Planet HD
-udp://@233.136.41.156:1234
-#EXTINF:-1,Discovery Science HD
+#EXTINF:0,Deluxe Music
+udp://@233.136.41.87:1234
+#EXTINF:0,Discovery Channel Europe
+udp://@233.136.41.4:1234
+#EXTINF:0,Discovery HD Showcase
+udp://@233.136.41.54:1234
+#EXTINF:0,Discovery Science
 udp://@233.136.41.157:1234
-#EXTINF:-1,LRT HD
-udp://@233.136.41.158:1234
-#EXTINF:-1,Fashion One HD
-udp://@233.136.41.160:1234
-#EXTINF:-1,Filmzone+ HD
-udp://@233.136.41.161:1234
-#EXTINF:-1,Setanta Sports HD
-udp://@233.136.41.162:1234
-#EXTINF:-1,Sport 1 HD
-udp://@233.136.41.163:1234
-#EXTINF:-1,Zvaigzde TV
-udp://@233.136.41.165:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-#EXTINF:-1,DTX HD
+#EXTINF:0,Discovery Science
+udp://@233.136.41.3:1234
+#EXTINF:0,Discovery Science HD
+udp://@233.136.41.157:1234
+#EXTINF:0,Discovery TLC
+udp://@233.136.41.2:1234
+#EXTINF:0,DTX
+udp://@233.136.41.184:1234
+#EXTINF:0,DTX HD
 udp://@233.136.41.184:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-#EXTINF:-1,ID Extra Europe
-udp://@233.136.41.185:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-#EXTINF:-1,Sony Turbo
-udp://@239.255.12.5:1234                   
-#EXTINF:-1,Penki TV
-udp://@239.255.12.1:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-#EXTINF:-1,Filmzone MPEG2
-udp://@239.255.12.2:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-#EXTINF:-1,Anonsai
-udp://@239.255.13.245:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-#EXTINF:-1,Balticum Platinum
-udp://@239.255.12.4:1234  
-#EXTINF:-1,New TV
-udp://@239.255.14.20:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-#EXTINF:-1,New TV
+#EXTINF:0,Duck HD TV
+udp://@233.136.41.108:1234
+#EXTINF:0,Duck TV
+udp://@233.136.41.48:1234
+#EXTINF:0,English Club TV
+udp://@233.136.41.137:1234
+#EXTINF:0,Euronews
+udp://@233.136.41.56:1234
+#EXTINF:0,Eurosport
+udp://@233.136.41.11:1234
+#EXTINF:0,Eurosport 2
+udp://@233.136.41.19:1234
+#EXTINF:0,Eurosport 2
+udp://@233.136.41.19:1234
+#EXTINF:0,Eurosport 2 HD
+udp://@233.136.41.143:1234
+#EXTINF:0,Eurosport HD
+udp://@233.136.41.104:1234
+#EXTINF:0,Extreme Sports
+udp://@233.136.41.18:1234
+#EXTINF:0,Fashion One
+udp://@233.136.41.131:1234
+#EXTINF:0,Fashion Television
+udp://@233.136.41.160:1234
+#EXTINF:0,Filmzone+ HD
+udp://@233.136.41.161:1234
+#EXTINF:0,Fine Living
+udp://@233.136.41.135:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+#EXTINF:0,History
+udp://@233.136.41.109:1234
+#EXTINF:0,I-Concerts HD
+udp://@233.136.41.59:1234
+#EXTINF:0,ID Xtra HD
+udp://@233.136.41.155:1234
+#EXTINF:0,Info TV
+udp://@233.136.41.17:1234
+#EXTINF:0,Info TV
+udp://@233.136.41.177:1234
+#EXTINF:0,JimJam
+udp://@233.136.41.16:1234
+#EXTINF:0,KidZone
+udp://@239.255.12.3:1234 
+#EXTINF:0,Kidzone Baltic
+udp://@233.136.41.145:1234
+#EXTINF:0,Lietuvos Rytas TV
+udp://@233.136.41.15:1234
+#EXTINF:0,Lietuvos ryto televizija
+udp://@239.255.13.7:1234
+#EXTINF:0,Liuks!
+udp://@233.136.41.14:1234
+#EXTINF:0,LNK
+udp://@239.255.13.28:1234
+#EXTINF:0,LR Seimas Tiesiogiai
+udp://@233.136.41.118:1234
+#EXTINF:0,LRT HD
+udp://@233.136.41.158:1234
+#EXTINF:0,LRT Kultura
+udp://@233.136.41.31:1234
+#EXTINF:0,LRT Lituanica
+udp://@233.136.41.147:1234
+udp://@233.136.41.171:1234
+#EXTINF:0,LRT Televizija
+udp://@233.136.41.158:1234
+#EXTINF:0,LRT Televizija
+udp://@233.136.41.12:1234
+#EXTINF:0,LRT Televizija
+udp://@233.136.41.170:1234
+#EXTINF:0,Mezzo
+udp://@233.136.41.64:1234
+#EXTINF:0,MTV Europe
+udp://@233.136.41.30:1234
+#EXTINF:0,MTV Hits
+udp://@233.136.41.142:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+#EXTINF:0,MTV Music 24
+udp://@233.136.41.114:1234
+#EXTINF:0,New TV
 udp://@239.255.14.22:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-#EXTINF:-1,New TV
-udp://@239.255.14.50:1234                 
-#EXTINF:-1,ESKA Party TV
-udp://@239.255.14.52:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-#EXTINF:-1,ESKA TV
-udp://@239.255.14.53:1234          
-#EXTINF:-1,VOX Music TV
-udp://@239.255.14.54:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-#EXTINF:-1,First Music HD BY
-udp://@239.255.14.55:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-#EXTINF:-1,First Music
-udp://@239.255.14.56:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-#EXTINF:-1,First Music RU
-udp://@239.255.14.57:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-#EXTINF:-1,First Music RU
-udp://@239.255.14.58:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-#EXTINF:-1,NRJ HITS
-udp://@239.255.14.59:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-#EXTINF:-1,M1 TV
-udp://@239.255.14.71:1234
-#EXTINF:-1,M2 TV
-udp://@239.255.14.72:1234
-#EXTINF:-1,Russian Music Box
-udp://@239.255.14.73:1234
-#EXTINF:-1,Music Box
-udp://@239.255.14.75:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-#EXTINF:-1,New TV
-udp://@239.255.14.76:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-#EXTINF:-1,New TV
-udp://@239.255.14.78:1234                  
-#EXTINF:-1,Film Box
-udp://@239.255.14.79:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-#EXTINF:-1,New TV
-udp://@239.255.14.80:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-#EXTINF:-1,CTB
-udp://@239.255.14.92:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-#EXTINF:-1,T 24
-udp://@239.255.14.93:1234                                                                                                                  
-#EXTINF:-1,Oruzyje
-udp://@239.255.14.94:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-#EXTINF:-1,THT Music
-udp://@239.255.14.96:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-#EXTINF:-1,New TV
-udp://@239.255.14.98:1234                                                                                                                                                                 
-#EXTINF:-1,Komedia
-udp://@239.255.14.99:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-#EXTINF:-1,Muzhskoy TV
-udp://@239.255.14.100:1234
+#EXTINF:0,New TV
+udp://@239.255.14.20:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+#EXTINF:0,Pingvinukas TV
+udp://@233.136.41.115:1234
+#EXTINF:0,RTL
+udp://@233.136.41.71:1234
+#EXTINF:0,Sky News International
+udp://@233.136.41.112:1234
+#EXTINF:0,Sony Turbo
+udp://@239.255.12.5:1234                   
+#EXTINF:0,Sport 1 HD
+udp://@233.136.41.163:1234
+#EXTINF:0,Sport1
+udp://@233.136.41.45:1234
+#EXTINF:0,TLC Pan
+udp://@233.136.41.167:1234
+#EXTINF:0,Travel Channel HD
+udp://@233.136.41.124:1234
+#EXTINF:0,Travel Channel SD
+udp://@233.136.41.44:1234
+#EXTINF:0,TV1
+udp://@233.136.41.42:1234
+#EXTINF:0,TV1
+udp://@239.255.13.9:1234
+#EXTINF:0,TV1000
+udp://@233.136.41.41:1234
+#EXTINF:0,TV1000 Action
+udp://@233.136.41.120:1234
+#EXTINF:0,TV1000 Premium
+udp://@233.136.41.119:1234
+#EXTINF:0,TV3
+udp://@239.255.12.13:1234
+#EXTINF:0,TV3
+udp://@239.255.13.4:1234
+#EXTINF:0,TV3
+udp://@233.136.41.39:1234
+#EXTINF:0,TV6
+udp://@233.136.41.175:1234
+#EXTINF:0,TV6
+udp://@233.136.41.38:1234
+#EXTINF:0,TV8
+udp://@233.136.41.116:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+#EXTINF:0,VH1 Europe
+udp://@233.136.41.32:1234
+#EXTINF:0,Viasat Explore
+udp://@233.136.41.37:1234
+#EXTINF:0,Viasat Explore HD
+udp://@233.136.41.141:1234             
+#EXTINF:0,Viasat History
+udp://@233.136.41.34:1234
+#EXTINF:0,Viasat History HD
+udp://@233.136.41.140:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+#EXTINF:0,Viasat Motor HD
+udp://@233.136.41.126:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+#EXTINF:0,Viasat Motor SD
+udp://@233.136.41.125:1234
+#EXTINF:0,Viasat Nature
+udp://@233.136.41.133:1234
+#EXTINF:0,Viasat Sport Baltic
+udp://@233.136.41.36:1234
+#EXTINF:0,Zvaigzde TV
+udp://@233.136.41.165:1234    
+#EXTINF:-1,XXX: Secret Circle
+http://178.132.4.10:8000/live/feyenoord/feyenoord/1010.ts
+#EXTINF:-1,XXX: Meiden van Holland Hard
+http://178.132.4.10:8000/live/feyenoord/feyenoord/1002.ts
+#EXTINF:-1,XXX: Penthouse
+http://178.132.4.10:8000/live/feyenoord/feyenoord/1000.ts
+#EXTINF:-1,XXX: Dusk! Deluxe
+http://178.132.4.10:8000/live/feyenoord/feyenoord/938.ts
+#EXTINF:-1,XXX: Brazzers TV Europe / Evil Angel
+http://178.132.4.10:8000/live/feyenoord/feyenoord/830.ts
+#EXTINF:-1,XXX: X-MO
+http://178.132.4.10:8000/live/feyenoord/feyenoord/828.ts
+#EXTINF:-1,XXX: BRAZZERS TV EUROPE
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/2256.ts
+#EXTINF:-1,XXX: CENTOXCENTO TV
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/2255.ts
+#EXTINF:-1,XXX: DORCEL
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/2254.ts
+#EXTINF:-1,XXX: DORCEL HD
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/2253.ts
+#EXTINF:-1,XXX: DUSK XXXL
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/2252.ts
+#EXTINF:-1,XXX: EROX HD
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/2251.ts
+#EXTINF:-1,XXX: EROXXX HD
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/2250.ts
+#EXTINF:-1,XXX: EXOTICA TV
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/2249.ts
+#EXTINF:-1,XXX: HUSTLER HD
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/2248.ts
+#EXTINF:-1,XXX: HUSTLER TV
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/2247.ts
+#EXTINF:-1,XXX: PASSION XXX
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/2246.ts
+#EXTINF:-1,XXX: PENTHAUSE HD
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/2245.ts
+#EXTINF:-1,XXX: Penthouse HD 1
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/2257.ts
+#EXTINF:-1,XXX: PENTHAUSE2 HD
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/2244.ts
+#EXTINF:-1,XXX: PINK TV
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/2243.ts
+#EXTINF:-1,XXX: PLAYBOY TV
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/2242.ts
+#EXTINF:-1,XXX: REDLIGHT HD
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/2241.ts
+#EXTINF:-1,XXX: RUSSKAYA NOCH
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/2240.ts
+#EXTINF:-1,XXL: XXX STAR
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/2239.ts
+#EXTINF:-1,XXX: SCT BOY TO BOY
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/2238.ts
+#EXTINF:-1,XXX: SEXT6SENSO
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/2237.ts
+#EXTINF:-1,XXX: STAR
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/2233.ts
+#EXTINF:-1,XXX: SUPER ONE EROS
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/2236.ts
+#EXTINF:-1,XXX: T GIRLS TV
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/2235.ts
+#EXTINF:-1,XXX: Penthouse
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/48.ts
+#EXTINF:-1,XXX: Reality Kings
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/14.ts
+#EXTINF:-1,XXX: Pink Erotic 1
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/4647.ts
+#EXTINF:-1,XXX: Pink Erotic 2
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/4646.ts
+#EXTINF:-1,XXX: Pink Erotic 3
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/4645.ts
+#EXTINF:-1,XXX: Pink Erotic 4
+http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/4644.ts
+#EXTINF:-1,ADULTO 1
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/82.ts
+#EXTINF:-1,ADULTO 2
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/81.ts
+#EXTINF:-1,ADULTO 3
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/80.ts
+#EXTINF:-1,ADULTO 4
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/79.ts
+#EXTINF:-1,ADULTO 5
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/78.ts
+#EXTINF:-1,ADULTO 6
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/77.ts
+#EXTINF:-1,ADULTO 7
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/76.ts
+#EXTINF:-1,ADULTO 8
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/75.ts
+#EXTINF:-1,ADULTO 9
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/74.ts
+#EXTINF:-1,ADULTO 10
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/73.ts
+#EXTINF:-1,Casting Couch X 1
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4217.ts
+#EXTINF:-1,Casting Couch X 2
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4216.ts
+#EXTINF:-1,Casting Couch X 3
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4215.ts
+#EXTINF:-1,Casting Couch X 4
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4214.ts
+#EXTINF:-1,Casting Couch X 5
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4213.ts
+#EXTINF:-1,Casting Couch X 6
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4212.ts
+#EXTINF:-1,Casting Couch X 7
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4211.ts
+#EXTINF:-1,Babes 17
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4218.ts
+#EXTINF:-1,Exotic4K 1
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4210.ts
+#EXTINF:-1,Exotic4K 2
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4209.ts
+#EXTINF:-1,Exotic4K 3
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4208.ts
+#EXTINF:-1,Exotic4K 4
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4207.ts
+#EXTINF:-1,Exotic4K 6
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4205.ts
+#EXTINF:-1,Exotic4K 7
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4204.ts
+#EXTINF:-1,Exotic4K 8
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4203.ts
+#EXTINF:-1,Exotic4K 9
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4202.ts
+#EXTINF:-1,Exotic4K 10
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4201.ts
+#EXTINF:-1,FantasyHD 1
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4200.ts
+#EXTINF:-1,FantasyHD 2
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4199.ts
+#EXTINF:-1,FantasyHD 3
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4198.ts
+#EXTINF:-1,FantasyHD 4
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4197.ts
+#EXTINF:-1,FantasyHD 5
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4196.ts
+#EXTINF:-1,FantasyHD 6
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4195.ts
+#EXTINF:-1,FantasyHD 7
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4194.ts
+#EXTINF:-1,FantasyHD 8
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4193.ts
+#EXTINF:-1,NUBILE 2
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4181.ts
+#EXTINF:-1,NUBILE 4
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4179.ts
+#EXTINF:-1,NUBILE 5
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4178.ts
+#EXTINF:-1,PASSION HD 1
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4177.ts
+#EXTINF:-1,PASSION HD 2
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4176.ts
+#EXTINF:-1,PASSION HD 3
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4175.ts
+#EXTINF:-1,PASSION HD 4
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4174.ts
+#EXTINF:-1,PASSION HD 5
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4173.ts
+#EXTINF:-1,PASSION HD 6
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4172.ts
+#EXTINF:-1,PASSION HD 7
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4171.ts
+#EXTINF:-1,PASSION HD 8
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4170.ts
+#EXTINF:-1,PASSION HD 9
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4169.ts
+#EXTINF:-1,PASSION HD 10
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4168.ts
+#EXTINF:-1,PASSION HD 11
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4167.ts
+#EXTINF:-1,PASSION HD 12
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4166.ts
+#EXTINF:-1,PASSION HD 13
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4165.ts
+#EXTINF:-1,PASSION HD 14
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4164.ts
+#EXTINF:-1,PASSION HD 15
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4163.ts
+#EXTINF:-1,PASSION HD 16
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4162.ts
+#EXTINF:-1,PASSION HD 17
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4161.ts
+#EXTINF:-1,PASSION HD 18
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4160.ts
+#EXTINF:-1,PORNPROS 1
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4159.ts
+#EXTINF:-1,PORNPROS 2
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4158.ts
+#EXTINF:-1,PORNPROS 3
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4157.ts
+#EXTINF:-1,PORNPROS 4
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4156.ts
+#EXTINF:-1,PORNPROS 5
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4155.ts
+#EXTINF:-1,PORNPROS 6
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4154.ts
+#EXTINF:-1,PORNPROS 7
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4153.ts
+#EXTINF:-1,PORNPROS 8
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4152.ts
+#EXTINF:-1,PORNPROS 9
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4151.ts
+#EXTINF:-1,PORNPROS 10
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4150.ts
+#EXTINF:-1,PORNPROS 11
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4149.ts
+#EXTINF:-1,PORNPROS 12
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4148.ts
+#EXTINF:-1,PORNPROS 13
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4147.ts
+#EXTINF:-1,POVD 1
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4146.ts
+#EXTINF:-1,POVD 2
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4145.ts
+#EXTINF:-1,POVD 3
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4144.ts
+#EXTINF:-1,POVD 4
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4143.ts
+#EXTINF:-1,POVD 5
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4142.ts
+#EXTINF:-1,POVD 6
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4141.ts
+#EXTINF:-1,POVD 7
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4140.ts
+#EXTINF:-1,POVD 8
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4139.ts
+#EXTINF:-1,POVD 9
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4138.ts
+#EXTINF:-1,PureMature 01
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4137.ts
+#EXTINF:-1,PureMature 02
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4136.ts
+#EXTINF:-1,PureMature 03
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4135.ts
+#EXTINF:-1,PureMature 04
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4134.ts
+#EXTINF:-1,PureMature 05
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4133.ts
+#EXTINF:-1,PureMature 06
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4132.ts
+#EXTINF:-1,PureMature 07
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4131.ts
+#EXTINF:-1,PureMature 08
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4130.ts
+#EXTINF:-1,PureMature 09
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4129.ts
+#EXTINF:-1,PureMature 10
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4128.ts
+#EXTINF:-1,PureMature 11
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4127.ts
+#EXTINF:-1,PureMature 12
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4126.ts
+#EXTINF:-1,PureMature 13
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4125.ts
+#EXTINF:-1,PureMature 14
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4124.ts
+#EXTINF:-1,PureMature 15
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4123.ts
+#EXTINF:-1,PureMature 16
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4122.ts
+#EXTINF:-1,PureMature 17
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4121.ts
+#EXTINF:-1,PureMature 18
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4120.ts
+#EXTINF:-1,PureMature 19
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4119.ts
+#EXTINF:-1,PureMature 20
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4118.ts
+#EXTINF:-1,PureMature 21
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4117.ts
+#EXTINF:-1,PureMature 22
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4116.ts
+#EXTINF:-1,PureMature 23
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4115.ts
+#EXTINF:-1,PureMature 24
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4114.ts
+#EXTINF:-1,PureMature 25
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4113.ts
+#EXTINF:-1,PureMature 26
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4112.ts
+#EXTINF:-1,PureMature 27
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4111.ts
+#EXTINF:-1,PureMature 28
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4110.ts
+#EXTINF:-1,PureMature 29
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4109.ts
+#EXTINF:-1,PureMature 30
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4108.ts
+#EXTINF:-1,PureMature 31
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4107.ts
+#EXTINF:-1,PureMature 32
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4106.ts
+#EXTINF:-1,PureMature 33
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4105.ts
+#EXTINF:-1,PureMature 34
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4104.ts
+#EXTINF:-1,PureMature 35
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4103.ts
+#EXTINF:-1,PureMature 36
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4102.ts
+#EXTINF:-1,PureMature 37
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4101.ts
+#EXTINF:-1,PureMature 38
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4100.ts
+#EXTINF:-1,PureMature 39
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4099.ts
+#EXTINF:-1,PureMature 40
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4098.ts
+#EXTINF:-1,PureMature 41
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4097.ts
+#EXTINF:-1,PureMature 42
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4096.ts
+#EXTINF:-1,PureMature 43
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4095.ts
+#EXTINF:-1,PureMature 44
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4094.ts
+#EXTINF:-1,PureMature 45
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4093.ts
+#EXTINF:-1,PureMature 46
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4092.ts
+#EXTINF:-1,PureMature 47
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4091.ts
+#EXTINF:-1,PureMature 48
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4090.ts
+#EXTINF:-1,PureMature 49
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4089.ts
+#EXTINF:-1,PureMature 50
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4088.ts
+#EXTINF:-1,PureMature 51
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4087.ts
+#EXTINF:-1,PureMature 52
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4086.ts
+#EXTINF:-1,PureMature 53
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4085.ts
+#EXTINF:-1,PureMature 54
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4084.ts
+#EXTINF:-1,PureMature 55
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4083.ts
+#EXTINF:-1,PureMature 56
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4082.ts
+#EXTINF:-1,PureMature 57
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4081.ts
+#EXTINF:-1,PureMature 58
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4080.ts
+#EXTINF:-1,PureMature 59
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4079.ts
+#EXTINF:-1,PureMature 60
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4078.ts
+#EXTINF:-1,PureMature 62
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4076.ts
+#EXTINF:-1,PureMature 63
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4075.ts
+#EXTINF:-1,PureMature 64
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4074.ts
+#EXTINF:-1,PureMature 65
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4073.ts
+#EXTINF:-1,PureMature 66
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4072.ts
+#EXTINF:-1,PureMature 68
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4071.ts
+#EXTINF:-1,PureMature 69
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4070.ts
+#EXTINF:-1,PureMature 70
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4069.ts
+#EXTINF:-1,PureMature 71
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4068.ts
+#EXTINF:-1,PureMature 72
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4067.ts
+#EXTINF:-1,PureMature 73
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4066.ts
+#EXTINF:-1,PureMature 74
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4065.ts
+#EXTINF:-1,PureMature 75
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4064.ts
+#EXTINF:-1,PureMature 76
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4063.ts
+#EXTINF:-1,PureMature 77
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4062.ts
+#EXTINF:-1,PureMature 78
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4061.ts
+#EXTINF:-1,PureMature 79
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4060.ts
+#EXTINF:-1,TINY4K 1
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4059.ts
+#EXTINF:-1,TINY4K 2
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4058.ts
+#EXTINF:-1,TINY4K 3
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4057.ts
+#EXTINF:-1,TINY4K 4
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4056.ts
+#EXTINF:-1,TINY4K 5
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4055.ts
+#EXTINF:-1,TINY4K 7
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4053.ts
+#EXTINF:-1,TINY4K 8
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4052.ts
+#EXTINF:-1,TINY4K 9
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4051.ts
+#EXTINF:-1,TINY4K 10
+http://54.39.53.45:8880/live/Rodrigo1/Rodrigo1/4050.ts
+#EXTINF:-1,PLAYBOY TV
+http://asdp.ddns.net:8000/live/silva/silva/323.ts
+#EXTINF:-1,Venus
+http://asdp.ddns.net:8000/live/silva/silva/480.ts
+#EXTINF:-1,XX Adultos:Dusya
+http://asdp.ddns.net:8000/live/silva/silva/546.ts
+#EXTINF:-1,XX Adultos:Demida
+http://asdp.ddns.net:8000/live/silva/silva/547.ts
+#EXTINF:-1,XX Adultos:Dakota Skye
+http://asdp.ddns.net:8000/live/silva/silva/548.ts
+#EXTINF:-1,XX Adultos:Chloe Foster
+http://asdp.ddns.net:8000/live/silva/silva/549.ts
+#EXTINF:-1,XX Adultos:Chichi Medina
+http://asdp.ddns.net:8000/live/silva/silva/550.ts
+
+
+#EXTINF:-1,Adult 4K: VOD 12
+http://v.thebestvideocontentever.com/content/videos/000/052/555/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 13
+http://v.thebestvideocontentever.com/content/videos/000/047/489/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 14
+http://v.thebestvideocontentever.com/content/videos/000/053/566/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 15
+http://v.thebestvideocontentever.com/content/videos/000/052/707/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 16
+http://v.thebestvideocontentever.com/content/videos/000/053/592/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 17
+http://v.thebestvideocontentever.com/content/videos/000/052/535/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 18
+http://v.thebestvideocontentever.com/content/videos/000/052/972/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 19
+http://v.thebestvideocontentever.com/content/videos/000/046/475/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 20
+http://v.thebestvideocontentever.com/content/videos/000/052/741/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 21
+http://v.thebestvideocontentever.com/content/videos/000/047/467/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 22
+http://v.thebestvideocontentever.com/content/videos/000/047/557/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 23
+http://v.thebestvideocontentever.com/content/videos/000/053/705/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 24
+http://v.thebestvideocontentever.com/content/videos/000/047/599/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 25
+http://v.thebestvideocontentever.com/content/videos/000/047/489/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 26
+http://v.thebestvideocontentever.com/content/videos/000/053/617/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 27
+http://v.thebestvideocontentever.com/content/videos/000/053/006/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 28
+http://v.thebestvideocontentever.com/content/videos/000/052/555/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 29
+http://v.thebestvideocontentever.com/content/videos/000/053/059/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 30
+http://v.thebestvideocontentever.com/content/videos/000/053/536/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 31
+http://v.thebestvideocontentever.com/content/videos/000/052/742/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 32
+http://v.thebestvideocontentever.com/content/videos/000/047/595/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 33
+http://v.thebestvideocontentever.com/content/videos/000/052/972/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 34
+http://v.thebestvideocontentever.com/content/videos/000/052/585/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 35
+http://v.thebestvideocontentever.com/content/videos/000/047/543/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 36
+http://v.thebestvideocontentever.com/content/videos/000/053/358/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 37
+http://v.thebestvideocontentever.com/content/videos/000/053/443/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 38
+http://v.thebestvideocontentever.com/content/videos/000/052/946/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 39
+http://v.thebestvideocontentever.com/content/videos/000/046/498/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 40
+http://v.thebestvideocontentever.com/content/videos/000/053/006/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 41
+http://v.thebestvideocontentever.com/content/videos/000/053/057/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 42
+http://v.thebestvideocontentever.com/content/videos/000/053/802/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 43
+http://v.thebestvideocontentever.com/content/videos/000/047/528/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 44
+http://v.thebestvideocontentever.com/content/videos/000/052/333/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 45
+http://v.thebestvideocontentever.com/content/videos/000/053/164/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 46
+http://v.thebestvideocontentever.com/content/videos/000/047/374/panda/promo/tiny4k_promo_mp4_712_2500.mp4
+#EXTINF:-1,Adult 4K: VOD 1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
