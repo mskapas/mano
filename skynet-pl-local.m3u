@@ -179,7 +179,8 @@ udp://@233.136.41.54:1234
 udp://@233.136.41.140:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
 #EXTINF:0,Viasat Motor HD
 #EXTINF:0,Viasat History HD
-udp://@233.136.41.140:1234     
+udp://@233.136.41.140:1234       
+
 #EXTINF:-1,Discovery TLC
 udp://@233.136.41.2:1234
 #EXTINF:-1,Discovery Channel
