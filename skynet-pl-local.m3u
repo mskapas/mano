@@ -1,42 +1,24 @@
 #EXTM3U
-#EXTINF:0,LRT HD
-udp://@233.136.41.158:1234
-#EXTINF:0,LRT Kultura
-udp://@233.136.41.31:1234
-#EXTINF:0,LRT Lituanica
-udp://@233.136.41.147:1234
 #EXTINF:0,LRT Televizija
 udp://@233.136.41.12:1234
-#EXTINF:0,LRT Televizija
-udp://@233.136.41.170:1234
 #EXTINF:0,LNK
 udp://@239.255.13.28:1234
 #EXTINF:0,TV3
-udp://@239.255.12.13:1234
-#EXTINF:0,TV3
 udp://@239.255.13.4:1234
-#EXTINF:0,TV3
-udp://@233.136.41.39:1234
 #EXTINF:0,BTV
 udp://@233.136.41.20:1234
 #EXTINF:0,TV6
 udp://@233.136.41.175:1234
-#EXTINF:0,TV6
-udp://@233.136.41.38:1234
-#EXTINF:0,TV1
-udp://@233.136.41.42:1234
 #EXTINF:0,TV1
 udp://@239.255.13.9:1234
+#EXTINF:0,LRT Kultura
+udp://@233.136.41.31:1234
 #EXTINF:0,Info TV
 udp://@233.136.41.17:1234
-#EXTINF:0,Info TV
-udp://@233.136.41.177:1234
 #EXTINF:0,TV8
 udp://@233.136.41.116:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 #EXTINF:0,Lietuvos Rytas TV
 udp://@233.136.41.15:1234
-#EXTINF:0,Lietuvos ryto televizija
-udp://@239.255.13.7:1234
 #EXTINF:0,Balticum Auksinis
 udp://@233.136.41.105:1234
 #EXTINF:0,Balticum Platinum
@@ -49,20 +31,12 @@ udp://@233.136.41.118:1234
 udp://@233.136.41.11:1234
 #EXTINF:0,Eurosport 2
 udp://@233.136.41.19:1234
-#EXTINF:0,Eurosport 2 HD
-udp://@233.136.41.143:1234
-#EXTINF:0,Eurosport HD
-udp://@233.136.41.104:1234
-#EXTINF:0,Sport 1 HD
-udp://@233.136.41.163:1234
 #EXTINF:0,Sport1
 udp://@233.136.41.45:1234
 #EXTINF:0,Viasat Sport Baltic
 udp://@233.136.41.36:1234
 #EXTINF:0,Discovery Channel Europe
 udp://@233.136.41.4:1234
-#EXTINF:0,Discovery HD Showcase
-udp://@233.136.41.54:1234
 #EXTINF:0,Discovery Science
 udp://@233.136.41.157:1234
 #EXTINF:0,Discovery Science
@@ -77,9 +51,6 @@ udp://@233.136.41.37:1234
 udp://@233.136.41.141:1234             
 #EXTINF:0,Viasat History
 udp://@233.136.41.34:1234
-#EXTINF:0,Viasat History HD
-udp://@233.136.41.140:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-#EXTINF:0,Viasat Motor HD
 udp://@233.136.41.126:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
 #EXTINF:0,Viasat Motor SD
 udp://@233.136.41.125:1234
@@ -177,3 +148,36 @@ udp://@233.136.41.32:1234
 udp://@233.136.41.165:1234    
 #EXTINF:0,Liuks!
 udp://@233.136.41.14:1234
+#EXTINF:0,LRT HD
+udp://@233.136.41.158:1234
+
+#EXTINF:0,LRT Lituanica
+udp://@233.136.41.147:1234
+#EXTINF:0,LRT Televizija
+udp://@233.136.41.170:1234
+#EXTINF:0,TV3
+udp://@239.255.12.13:1234
+#EXTINF:0,TV3
+udp://@233.136.41.39:1234
+#EXTINF:0,TV6
+udp://@233.136.41.38:1234
+#EXTINF:0,TV1
+udp://@233.136.41.42:1234
+#EXTINF:0,Info TV
+udp://@233.136.41.177:1234
+#EXTINF:0,Lietuvos ryto televizija
+udp://@239.255.13.7:1234
+#EXTINF:0,Eurosport 2 HD
+udp://@233.136.41.143:1234
+#EXTINF:0,Eurosport HD
+udp://@233.136.41.104:1234
+#EXTINF:0,Sport 1 HD
+udp://@233.136.41.163:1234
+#EXTINF:0,Discovery HD Showcase
+udp://@233.136.41.54:1234
+#EXTINF:0,Viasat History HD
+udp://@233.136.41.140:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+#EXTINF:0,Viasat Motor HD
+#EXTINF:0,Viasat History HD
+udp://@233.136.41.140:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+#EXTINF:0,Viasat Motor HD
