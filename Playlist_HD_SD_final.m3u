@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:0,LRT Televizija HD
 udp://@233.136.41.158:1234
-#EXTINF:0,LNK
-udp://@233.136.41.172:1234
+#EXTINF:0,LNK HD
+udp://@239.255.12.25:1234
 #EXTINF:0,TV3 HD
 udp://@239.255.12.13:1234
-#EXTINF:0,BTV
-udp://@239.255.13.5:1234
+#EXTINF:0,BTV HD
+udp://@239.255.12.28:1234
 #EXTINF:0,TV6 HD
 udp://@239.255.12.16:1234
-#EXTINF:0,TV1
-udp://@233.136.41.174:1234
+#EXTINF:0,TV1 HD
+udp://@239.255.12.27:1234
 #EXTINF:0,LRT Kultura HD
 udp://@239.2.4.204:1234
 #EXTINF:0,TV8
 udp://@233.136.41.116:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-#EXTINF:0,Info TV
-udp://@233.136.41.17:1234
+#EXTINF:0,Info TV HD
+udp://@239.255.23.26:1234
 #EXTINF:0,Lietuvos rytas HD
 udp://@239.255.12.8:1234
 #EXTINF:0,LRT Lituanica
