@@ -10,15 +10,15 @@ udp://@233.132.130.5:1234
 #EXTINF:0,TV6 HD
 udp://@239.255.15.112:1234
 #EXTINF:0,TV1 HD
-udp://@239.255.12.210:1234
+udp://@233.132.130.12:1234
 #EXTINF:0,LRT Kultura HD
-udp://@239.2.4.204:1234
+udp://@239.255.15.65:1234
 #EXTINF:0,TV8
 udp://@233.136.41.116:1234                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 #EXTINF:0,Info TV HD
 udp://@233.136.41.177:1234
 #EXTINF:0,Lietuvos rytas HD
-udp://@239.255.12.8:1234
+udp://@239.255.15.67:1234
 #EXTINF:0,LRT Lituanica
 udp://@233.136.41.147:1234
 #EXTINF:0,Balticum TV
